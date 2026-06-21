@@ -1,4 +1,4 @@
-# Minimalist Uygulaması
+# Minimalist To-Do Uygulaması
 
 Bu proje, günlük görevleri tarih ve kategori bazlı olarak organize etmeyi sağlayan, modern ve minimalist tasarıma sahip bir mobil görev yönetim uygulamasıdır. Kullanıcı deneyimini (UI/UX) ön planda tutarak, iş ve kişisel planlamaları kolaylaştırmak amacıyla geliştirilmiştir.
 
